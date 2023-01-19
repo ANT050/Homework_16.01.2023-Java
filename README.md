@@ -20,7 +20,7 @@
 
 <img src="images\Task_1.2.jpg" height="96" width="339"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_16.01.2023-Java/blob/main/Task_1.java "Открыть")
 
 ---
 
@@ -36,7 +36,7 @@
 
 <img src="images\Task_2.2.jpg" height="84" width="382"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_16.01.2023-Java/blob/main/Task_2.java "Открыть")
 
 ---
 
@@ -52,7 +52,7 @@
 
 <img src="images\Task_3.2.jpg" height="76" width="220"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_16.01.2023-Java/blob/main/Task_3.java "Открыть")
 
 ---
 
@@ -68,7 +68,7 @@
 
 <img src="images\Task_4.2.jpg" height="129" width="378"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_16.01.2023-Java/blob/main/Task_4.java "Открыть")
 
 ---
 
@@ -80,7 +80,7 @@
 
 <img src="images\Task_5.jpg" height="63" width="238"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_16.01.2023-Java/blob/main/Task_5.java "Открыть")
 
 ---
 
@@ -92,7 +92,7 @@
 
 <img src="images\Task_6.jpg" height="70" width="214"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_16.01.2023-Java/blob/main/Task_6.java "Открыть")
 
 ---
 
@@ -104,7 +104,7 @@
 
 <img src="images\Task_7.jpg" height="73" width="865"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_16.01.2023-Java/blob/main/Task_7.java "Открыть")
 
 ---
 
